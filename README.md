@@ -1,2 +1,1 @@
-# Github-user-finder
-itHub User Finder is a simple web app built using ReactJS. This app allows users to search for any GitHub user by username and fetch their public profile details, such as:  Avatar  Username  Full name  Followers count  Repositories count  Public gists count  Location (if available)
+GitHub User Finder is a simple and clean web app built using ReactJS that allows users to search for any public GitHub profile by entering a username. It fetches real-time user data from the GitHub REST API and displays details like name, avatar, repositories, followers, and more in a beautifully styled profile card
